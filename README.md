@@ -3,6 +3,7 @@
 
 | HORARIO | ACTIVIDAD | BANDA | DURACIÓN |
 |---------|-----------|-------|----------|
+| **09:00-09:30** | Entrega de equipo CEDETEC | STAFF | 30 min |
 | **09:30-10:00** | Montaje inicial | STAFF | 30 min |
 | **10:00-10:30** | Soundcheck | 21 Taxistas | 30 min |
 | **10:30-11:00** | Preparación escenario | STAFF | 30 min |
