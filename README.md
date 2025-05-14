@@ -55,13 +55,13 @@
 | 12 | Voz 2 | SM57 | Comp | Reverb | 1+2 | |
 | 13-14 | Teclado L/R | Countryman DI/dBx DI | - | EQ | 1+2 | Base para teclado |
 
-### ENDROIDEX (12:30)
+### ENDROIDEX (12:45)
 | CH | INSTRUMENTO | MIC/DI | INSERT | PROCESO | MONITOR | NOTAS |
 |----|-------------|--------|--------|---------|---------|-------|
 | 1-2 | Interfaz L/R | Radial StageBug SB-5 | - | EQ | 1+2 | Usar 2 cables TRS |
 | 3   | Voz        | SM57   | Comp  | Reverb  | 1+2 | Base con boom |
 
-### SELENE (13:15)
+### SELENE (13:30)
 | CH | INSTRUMENTO | MIC/DI | INSERT | PROCESO | MONITOR | NOTAS |
 |----|-------------|--------|--------|---------|---------|-------|
 | 1-2 | Computadora L/R | Radial StageBug SB-5 | - | EQ | 1+2 | Cables TS |
