@@ -1,0 +1,2 @@
+# reciclatec
+Input List Reciclatec
